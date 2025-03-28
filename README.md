@@ -5,4 +5,4 @@
 Любимая цитата из книги Хэла Элрода "Движение создаёт эмоции".
 
 ![alt text](WQEKiRSXDRY.jpg)
-theme: Midnight
+theme: jekyll-theme-Midnight
